@@ -12,7 +12,7 @@ class Array2
 		
 		int Arr[] = new int [size];
 		
-		System.out.println("Enter the elements of array");
+		System.out.println("Enter the elements of array"); // New comment github
 		for(iCnt = 0;iCnt < Arr.length;iCnt++)
 		{
 			Arr[iCnt] = sobj.nextInt();
